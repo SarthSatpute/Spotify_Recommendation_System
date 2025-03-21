@@ -24,5 +24,3 @@ The **Spotify Recommendation System** leverages **collaborative filtering** and 
 2. **Content-Based Filtering**: Analyzes song features (tempo, genre, mood) to recommend similar songs.
 3. **Hybrid Approach**: Combines both techniques for more precise recommendations.
 
-## 🏗️ Future Enhancements
-- Improve model accuracy with **deep learning** techniques
